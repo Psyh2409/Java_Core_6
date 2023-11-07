@@ -6,25 +6,21 @@ public class MyCalculator implements Numerable {
 
 	@Override
 	public double plus(double a, double b) {
-		// TODO Auto-generated method stub
 		return a+b;
 	}
 
 	@Override
 	public double minus(double a, double b) {
-		// TODO Auto-generated method stub
 		return a-b;
 	}
 
 	@Override
 	public double multiply(double a, double b) {
-		// TODO Auto-generated method stub
 		return a*b;
 	}
 
 	@Override
 	public double devide(double a, double b) {
-		// TODO Auto-generated method stub
 		return a/b;
 	}
 	
